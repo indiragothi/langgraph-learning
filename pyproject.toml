@@ -9,7 +9,9 @@ authors = [
 requires-python = ">=3.12.2"
 dependencies = [
     "dotenv>=0.9.9",
+    "duckduckgo-search>=8.1.1",
     "ipykernel>=7.3.0",
+    "langchain-community>=0.4.2",
     "langchain-google-genai>=4.4.0",
     "langgraph>=1.2.11",
     "numpy>=2.5.3",
